@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Keyboard
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:keyWidth="20%p"
+    android:keyHeight="60dp">
+
+    <Row>
+        <Key android:keyLabel="@string/bug" android:keyWidth="17%p" android:keyEdgeFlags="left"/>
+        <Key android:keyLabel="@string/dark" android:keyWidth="17%p"/>
+        <Key android:keyLabel="@string/dragon" android:keyWidth="17%p"/>
+        <Key android:keyLabel="@string/electric" android:keyWidth="17%p"/>
+        <Key android:keyLabel="@string/fairy" android:keyWidth="17%p"/>
+        <Key android:codes="-5"
+            android:keyLabel="@string/delete"
+            android:keyWidth="15%p"
+            android:isRepeatable="true"
+            android:keyEdgeFlags="right"/>
+    </Row>
+
+    <Row>
+        <Key android:keyLabel="@string/fighting" android:keyWidth="17%p" android:keyEdgeFlags="left"/>
+        <Key android:keyLabel="@string/fire" android:keyWidth="17%p"/>
+        <Key android:keyLabel="@string/flying" android:keyWidth="17%p"/>
+        <Key android:keyLabel="@string/ghost" android:keyWidth="17%p"/>
+        <Key android:keyLabel="@string/grass" android:keyWidth="17%p"/>
+        <Key android:codes="-1"
+            android:keyLabel="#"
+            android:keyWidth="15%p"
+            android:keyEdgeFlags="right"/>
+    </Row>
+
+    <Row>
+        <Key android:keyLabel="@string/ground" android:keyEdgeFlags="left"/>
+        <Key android:keyLabel="@string/ice"/>
+        <Key android:keyLabel="@string/normal"/>
+        <Key android:keyLabel="@string/poison"/>
+        <Key android:codes="32" android:keyLabel="@string/space" android:keyEdgeFlags="right"/>
+    </Row>
+
+    <Row>
+        <Key android:keyLabel="@string/psychic" android:horizontalGap="0%p" android:keyEdgeFlags="left"/>
+        <Key android:keyLabel="@string/rock"/>
+        <Key android:keyLabel="@string/steel"/>
+        <Key android:keyLabel="@string/water"/>
+        <Key android:codes="-4"
+            android:keyLabel="@string/done"
+            android:keyEdgeFlags="right"/>
+    </Row>
+</Keyboard>

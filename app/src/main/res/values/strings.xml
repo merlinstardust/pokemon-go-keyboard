@@ -1,0 +1,54 @@
+<resources>
+
+    <string name="app_name">PoGo Type Keyboard</string>
+
+    <!-- numbers -->
+    <string name="n0">\u24EA</string>
+    <string name="n1">\u2460</string>
+    <string name="n2">\u2461</string>
+    <string name="n3">\u2462</string>
+
+    <string name="n4">\u2463</string>
+    <string name="n5">\u2464</string>
+    <string name="n6">\u2465</string>
+    <string name="n7">\u2466</string>
+
+    <string name="n8">\u2467</string>
+    <string name="n9">\u2468</string>
+    <string name="n10">\u2469</string>
+    <string name="n11">\u246A</string>
+
+    <string name="n12">\u246B</string>
+    <string name="n13">\u246C</string>
+    <string name="n14">\u246D</string>
+    <string name="n15">\u246E</string>
+
+    <!-- symbols -->
+    <string name="space">\u2423</string>
+    <string name="delete">\u232B</string>
+    <string name="done">\u2714</string>
+
+    <!-- types -->
+    <string name="bug">\uA564</string>
+    <string name="dark">\u263D</string>
+    <string name="dragon">\u262B</string>
+    <string name="electric">\u26A1</string>
+    <string name="fairy">\u2735</string>
+
+    <string name="fighting">\u270A</string>
+    <string name="fire">\u2600</string>
+    <string name="flying">\u2708</string>
+    <string name="ghost">\u2A40</string>
+    <string name="grass">\u2618</string>
+
+    <string name="ground">\u23DA</string>
+    <string name="ice">\u2744</string>
+    <string name="normal">\u2299</string>
+    <string name="poison">\u2620</string>
+
+    <string name="psychic">\u0ED1</string>
+    <string name="rock">\u2617</string>
+    <string name="steel">\u26D3</string>
+    <string name="water">\u26F2</string>
+
+</resources>
